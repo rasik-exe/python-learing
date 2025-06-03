@@ -1,0 +1,12 @@
+d={}
+name=input("enter the name: ")
+lang=input("enter the language: ")
+d.update({name:lang})
+name=input("enter the name: ")
+lang=input("enter the language: ")
+d.update({name:lang})
+name=input("enter the name: ")
+lang=input("enter the language: ")
+d.update({name:lang})
+d.keys()
+print(d)
