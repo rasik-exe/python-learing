@@ -1,0 +1,5 @@
+s=set()
+s.add(17)
+s.add(17.0)
+s.add("117")
+print(len(s))
